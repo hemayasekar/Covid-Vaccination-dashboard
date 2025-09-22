@@ -32,7 +32,8 @@
 
 ## 📸 Sample Dashboard (Preview)
 
-_(Add a screenshot of your Streamlit dashboard here later, e.g., `images/dashboard.png`)_
+![Dashboard Screenshot](images/Dashboard1.png)
+![Dashboard Screenshot](images/Dashboard2.png)
 
 ---
 
@@ -40,11 +41,16 @@ _(Add a screenshot of your Streamlit dashboard here later, e.g., `images/dashboa
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/covid-dashboard.git
-   cd covid-dashboard
-   ```
+   git clone https://github.com/hemayasekar/Covid-Vaccination-dashboard.git
+   cd Covid-Vaccination-dashboard
+
 
 2. Install dependencies:
     pip install -r requirements.txt
+
+
 3. Run the dashboard:
-    streamlit run dashboard.py
+    streamlit run covid_dashboard.py
+
+🌐 Deployment
+Deployed on Streamlit Cloud → Live Demo Link (Add once you deploy)
