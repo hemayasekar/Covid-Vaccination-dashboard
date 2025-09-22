@@ -52,5 +52,6 @@
 3. Run the dashboard:
     streamlit run covid_dashboard.py
 
-🌐 Deployment
-Deployed on Streamlit Cloud → Live Demo Link (Add once you deploy)
+## 🌐 Deployment
+Deployed on **Streamlit Cloud** → [Live Demo](https://covid-vaccination-dashboard.streamlit.app)
+
